@@ -1,9 +1,9 @@
 # Sudoku-solver
-Sudoku solver using sets 
+Sudoku solver using **recursion** and **Sets  data structures**.
 
 # Description
 
-The objective of this project was to develop a Sudoku solver using **recursion**, **the Set data structure** and a variety of **Graphic User Interfaces (GUI's)**. The programming language used was **Java** using the NetBeans IDE. 
+The objective of this project was to develop a Sudoku solver using **recursion**, **the Set data structure** and a variety of **Graphic User Interfaces (GUI's)**.  The Sudoku solver gets the best solution for the numbers entered by the user in the boxes. The programming language used was **Java** in the NetBeans IDE. 
 
 # How to use
 1. Run the project to see the main menu.
